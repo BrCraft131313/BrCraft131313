@@ -1,16 +1,12 @@
-## Hi there 👋
-
-<!--
-**BrCraft131313/BrCraft131313** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#Hi!
+Im BrCraft131313, A Saudian Minecraft PE Mod Maker & Front-End Dev & Markdown & Bash Scripting Dev
+#My Spoken Languages 
+Arabic & English
+#My Fav Game
+Minecraft 
+#My Fav Programming Languages
+JS & HTML & CSS & Bash & Markdown 
+#My Skills
+Create Front End Websites By HTML & CSS Basic<br>
+Create Mods By ModPE JS<br>
+Create Bash Scripts & Markdown READMEs/Docs
