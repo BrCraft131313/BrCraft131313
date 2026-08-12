@@ -24,6 +24,9 @@
 </details>
 
 [GitHub](https://github.com/BrCraft131313)
+
 [YouTube](https://m.youtube.com/@brcraft-v8v)
+
 [TikTok](https://tiktok.com/@brcraft131313)
+
 [Portfolio](https://brcraft131313.github.io/Portfolio/)
