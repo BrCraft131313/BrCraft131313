@@ -1,32 +1,18 @@
-<h1>Hi!</h1>
-<p>Im BrCraft131313, A Saudian Minecraft PE Mod Maker & Front End Dev & Bash Scripting Dev & Markdown READMEs/Docs Maker</p>
-<details>
-  <summary>My Spoken Languages</summary>
-  <p>Arabic & English</p>
-</details>
-<details>
-  <summary>My Fav Game</summary>
-  <p>Minecraft</p>
-</details>
-<details>
-  <summary>My Fav Programming Languages</summary>
-  <p>JS & HTML & CSS & Bash & Markdown</p>
-</details>
-<details>
-  <summary>My Skills</summary>
-  <p>Create Mods By ModPE JS </p><br>
-  <p>Create Front End Websites By HTML & CSS Basics</p><br>
-  <p>Create Bash Scripts & Markdown READMEs/Docs</p>
-</details>
-<details>
-  <summary>My Email</summary>
-  <p>brcraft131313@gmail.com</p>
-</details>
+# 💫 About Me:
+Im BrCraft131313, A Saudian Minecraft PE Mod Maker & Front End Web Developer & Bash Scripting Developer & Markdown READMEs/Docs Maker
 
-[GitHub](https://github.com/BrCraft131313)
 
-[YouTube](https://m.youtube.com/@brcraft-v8v)
+## 🌐 Socials:
+[![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@BrCraft131313) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@brcraft-v8v) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:brcraft131313@gmail.com) 
 
-[TikTok](https://tiktok.com/@brcraft131313)
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.shion.dev/api?username=BrCraft131313&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://streak-stats.demolab.com/?user=BrCraft131313&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=BrCraft131313&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-[Portfolio](https://brcraft131313.github.io/Portfolio/)
+---
+[![](https://komarev.com/ghpvc/?username=BrCraft131313&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
