@@ -23,8 +23,6 @@
   <p>brcraft131313@gmail.com</p>
 </details>
 
-<img src="https://komarev.com/ghpvc/?username=BrCraft131313&color=green&style=flat-square" alt="Visitor Count" />
-
 [GitHub](https://github.com/BrCraft131313)
 
 [YouTube](https://m.youtube.com/@brcraft-v8v)
