@@ -6,8 +6,10 @@ Im BrCraft131313, A Saudian Minecraft PE Mod Maker & Front End Web Developer & B
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@BrCraft131313) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@brcraft-v8v) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:brcraft131313@gmail.com) 
 
 # 💻 Tech Stack:
-JS & HTML & CSS & Bash & Markdown & Java
-Front End Web & Scripter & Apps Maker & Mods Maker
+JS (ModPE API) & HTML & CSS & Bash & Markdown & Java
+Front End Web & Bash  Scripter & Apps Maker & Mods Maker & Docs Maker 
+# Tools
+Acode & QuickEdit, ModPE IDE, CodeAssist 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=BrCraft131313&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=BrCraft131313&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
