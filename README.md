@@ -2,7 +2,7 @@
 Im BrCraft131313, A Saudian Minecraft PE Mod Maker & Front End Web Developer & Bash Scripting Developer & Markdown READMEs/Docs Maker & Android Apps Maker
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@BrCraft131313) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@brcraft-v8v) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:brcraft131313@gmail.com) 
 
 # 💻 Tech Stack:
