@@ -7,6 +7,12 @@ Im BrCraft131313, A Saudian Minecraft PE Mod Maker & Front End Web Developer & B
 
 # 💻 Tech Stack:
 ![](https://raw.githubusercontent.com/BrCraft131313/BrCraft131313/main/JSLogo.png)
+![](https://raw.githubusercontent.com/BrCraft131313/BrCraft131313/main/ModsPELogo.png)
+![](https://raw.githubusercontent.com/BrCraft131313/BrCraft131313/main/BASHLogo.png)
+![](https://raw.githubusercontent.com/BrCraft131313/BrCraft131313/main/MarkdownLogo.png)
+![](https://raw.githubusercontent.com/BrCraft131313/BrCraft131313/main/HTMLLogo.png)
+![](https://raw.githubusercontent.com/BrCraft131313/BrCraft131313/main/CSSLogo.png)
+![](https://raw.githubusercontent.com/BrCraft131313/BrCraft131313/main/JavaLogo.png)
 # Tools
 Acode & QuickEdit, ModPE IDE, CodeAssist 
 # 📊 GitHub Stats:
