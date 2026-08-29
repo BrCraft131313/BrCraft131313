@@ -7,13 +7,13 @@ Im BrCraft131313, A Saudian Minecraft PE Mod Maker & Front End Web Developer & B
 
 # 💻 Tech Stack:
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BrCraft131313/BrCraft131313/main/JSLogo1.png" height="110" />
-  <img src="https://raw.githubusercontent.com/BrCraft131313/BrCraft131313/main/ModsPE0143Logo.png" height="110" />
-  <img src="https://raw.githubusercontent.com/BrCraft131313/BrCraft131313/main/BASHLogo1.png" height="110" />
-  <img src="https://raw.githubusercontent.com/BrCraft131313/BrCraft131313/main/MarkdownLogo1.png" height="110" />
-  <img src="https://raw.githubusercontent.com/BrCraft131313/BrCraft131313/main/HTMLLogo1.png" height="110" />
-  <img src="https://raw.githubusercontent.com/BrCraft131313/BrCraft131313/main/CSSLogo1.png" height="110" />
-  <img src="https://raw.githubusercontent.com/BrCraft131313/BrCraft131313/main/JavaLogo1.png" height="110" />
+  <img src="https://raw.githubusercontent.com/BrCraft131313/BrCraft131313/main/JSLogo.png" height="110" />
+  <img src="https://raw.githubusercontent.com/BrCraft131313/BrCraft131313/main/ModsPELogo.png" height="110" />
+  <img src="https://raw.githubusercontent.com/BrCraft131313/BrCraft131313/main/BASHLogo.png" height="110" />
+  <img src="https://raw.githubusercontent.com/BrCraft131313/BrCraft131313/main/MarkdownLogo.png" height="110" />
+  <img src="https://raw.githubusercontent.com/BrCraft131313/BrCraft131313/main/HTMLLogo.png" height="110" />
+  <img src="https://raw.githubusercontent.com/BrCraft131313/BrCraft131313/main/CSSLogo.png" height="110" />
+  <img src="https://raw.githubusercontent.com/BrCraft131313/BrCraft131313/main/JavaLogo.png" height="110" />
 </p>
 
 # Tools
