@@ -22,6 +22,8 @@
   <img src="https://raw.githubusercontent.com/BrCraft131313/BrCraft131313/main/QuickEdit.jpeg" height="110" />
   <img src="https://raw.githubusercontent.com/BrCraft131313/BrCraft131313/main/ModPEIDE.jpeg" height="110" />
   <img src="https://raw.githubusercontent.com/BrCraft131313/BrCraft131313/main/CodeAssist.jpeg" height="110" />
+  <img src="https://raw.githubusercontent.com/BrCraft131313/BrCraft131313/main/Termux.png" height="110" />
+  <img src="https://raw.githubusercontent.com/BrCraft131313/BrCraft131313/main/Blocklauncher.jpeg" height="110" />
 </p>
 
 # 📊 GitHub Stats:
