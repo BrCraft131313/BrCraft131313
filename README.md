@@ -2,8 +2,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/BrCraft131313/BrCraft131313/main/ModsPELogo.png" height="110" />
 
-  [<p align="center">
-  <img src="https://raw.githubusercontent.com/BrCraft131313/BrCraft131313/main/ModsPELogo.png" height="110" />](https://github.com/BrCraft131313/ModsPE0.14.3)
+  [ModsPE0.14.3](https://github.com/BrCraft131313/ModsPE0.14.3)
 
 # 💫 About Me:
 - BrCraft131313
