@@ -11,7 +11,6 @@
 # 💻 Tech Stack:
 <p align="center">
   <img src="https://raw.githubusercontent.com/BrCraft131313/BrCraft131313/main/JSLogo.png" height="110" />
-  <img src="https://raw.githubusercontent.com/BrCraft131313/BrCraft131313/main/ModsPELogo.png" height="110" />
   <img src="https://raw.githubusercontent.com/BrCraft131313/BrCraft131313/main/BASHLogo.png" height="110" />
   <img src="https://raw.githubusercontent.com/BrCraft131313/BrCraft131313/main/MarkdownLogo.png" height="110" />
   <img src="https://raw.githubusercontent.com/BrCraft131313/BrCraft131313/main/HTMLLogo.png" height="110" />
