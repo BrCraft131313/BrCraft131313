@@ -27,10 +27,10 @@
 
 # Projects (The one who has a logo)
 <p align="center">
-  <img src="https://raw.githubusercontent.com/BrCraft131313/BrCraft131313/main/ModsPELogo.png" height="110" /><p align="center">
-  <img src="https://raw.githubusercontent.com/BrCraft131313/BrCraft131313/main/LegxUIBlack.png" height="110" /><p align="center">
-  <img src="https://raw.githubusercontent.com/BrCraft131313/BrCraft131313/main/LegxUIWhite.png" height="110" /><p align="center">
   <img src="https://raw.githubusercontent.com/BrCraft131313/BrCraft131313/main/DixiOS.png" height="110" />
-        
+  <img src="https://raw.githubusercontent.com/BrCraft131313/BrCraft131313/main/ModsPELogo.png" height="110" />
+  <img src="https://raw.githubusercontent.com/BrCraft131313/BrCraft131313/main/LegxUIWhite.png" height="110" />
+  <img src="https://raw.githubusercontent.com/BrCraft131313/BrCraft131313/main/LegxUIBlack.png" height="110" />
+</p>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=BrCraft131313&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
