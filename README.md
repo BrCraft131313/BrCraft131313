@@ -1,6 +1,3 @@
-# My favorite project 
-[![](https://raw.githubusercontent.com/BrCraft131313/BrCraft131313/main/ModsPELogo.png)](https://github.com/BrCraft131313/ModsPE0.14.3/)
-
 # 💫 About Me:
 - BrCraft131313
 - FullStack Dev (WebFront & Android Apps & MCPE 0.14.3 Mods & Bash Scripts & Docs)
@@ -27,6 +24,8 @@
   <img src="https://raw.githubusercontent.com/BrCraft131313/BrCraft131313/main/Termux.png" height="110" />
   <img src="https://raw.githubusercontent.com/BrCraft131313/BrCraft131313/main/Blocklauncher.jpeg" height="110" />
 </p>
+
+# Projects (The one who has a logo)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=BrCraft131313&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
