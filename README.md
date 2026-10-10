@@ -13,6 +13,7 @@
   <img src="https://raw.githubusercontent.com/BrCraft131313/BrCraft131313/main/HTMLLogo.png" height="110" />
   <img src="https://raw.githubusercontent.com/BrCraft131313/BrCraft131313/main/CSSLogo.png" height="110" />
   <img src="https://raw.githubusercontent.com/BrCraft131313/BrCraft131313/main/JavaLogo.png" height="110" />
+  <img src="https://raw.githubusercontent.com/BrCraft131313/BrCraft131313/main/PowerShell.png" height="110" />
 </p>
 
 # Tools:
