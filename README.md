@@ -31,8 +31,8 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/BrCraft131313/BrCraft131313/main/DixiOS.png" height="110" />
   <img src="https://raw.githubusercontent.com/BrCraft131313/BrCraft131313/main/ModsPELogo.png" height="110" />
-  <img src="https://raw.githubusercontent.com/BrCraft131313/BrCraft131313/main/LegxUIWhite.png" height="120" />
-  <img src="https://raw.githubusercontent.com/BrCraft131313/BrCraft131313/main/LegxUIBlack.png" height="120" />
+  <img src="https://raw.githubusercontent.com/BrCraft131313/BrCraft131313/main/LegxUIWhite.png" height="200" />
+  <img src="https://raw.githubusercontent.com/BrCraft131313/BrCraft131313/main/LegxUIBlack.png" height="200" />
 </p>
 
 # 📊 GitHub Stats:
