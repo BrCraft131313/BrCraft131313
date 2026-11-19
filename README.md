@@ -31,7 +31,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/BrCraft131313/BrCraft131313/main/DixiOS.png" height="110" />
   <img src="https://raw.githubusercontent.com/BrCraft131313/BrCraft131313/main/ModsPELogo.png" height="110" />
-  <img src="https://raw.githubusercontent.com/BrCraft131313/BrCraft131313/main/LegxUI.png" height="110" />
+  <img src="https://raw.githubusercontent.com/BrCraft131313/BrCraft131313/main/LegxUI.jpg" height="110" />
   <img src="https://raw.githubusercontent.com/BrCraft131313/BrCraft131313/main/BNC.png" height="110" />
   <img src="https://raw.githubusercontent.com/BrCraft131313/BrCraft131313/main/DXKERNEL.png" height="110" />
 </p>
