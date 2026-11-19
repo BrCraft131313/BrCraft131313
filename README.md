@@ -33,6 +33,7 @@
   <img src="https://raw.githubusercontent.com/BrCraft131313/BrCraft131313/main/ModsPELogo.png" height="110" />
   <img src="https://raw.githubusercontent.com/BrCraft131313/BrCraft131313/main/LegxUIWhite.png" height="110" />
   <img src="https://raw.githubusercontent.com/BrCraft131313/BrCraft131313/main/LegxUIBlack.png" height="110" />
+  <img src="https://raw.githubusercontent.com/BrCraft131313/BrCraft131313/main/BNC.png" height="110" />
 </p>
 
 # 📊 GitHub Stats:
